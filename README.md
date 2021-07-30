@@ -1,0 +1,1 @@
+I've Made A Simple Website Where The Login/Registration Module Is Based On Dani Krossing's YouTube Tutorial On PHP. I Have Used Password Hashing In PHP And Prepared Statements In MySQL. These Steps Make The Website More Secure.
